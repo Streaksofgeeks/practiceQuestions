@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class 1{
+public class Question1{
     public static void golgappa(int n){
     
     for (int i = 0; i<n; i++){
