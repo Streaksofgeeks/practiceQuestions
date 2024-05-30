@@ -1,4 +1,4 @@
-import java.util.*;
+// WAP to make star pattern for rectangle
 
 public class Question1{
     public static void golgappa(int n){
