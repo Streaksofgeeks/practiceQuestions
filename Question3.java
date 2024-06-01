@@ -1,3 +1,4 @@
+//WAP to make triangular number pattern.
 public class Question3 {
     public static void sawaal(int n){
         int i,j;
