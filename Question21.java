@@ -24,7 +24,7 @@
         } if (count>3){
             System.out.println(count);
         } else {
-            System.out.println("Number is not valid");
+            System.out.println("It is not a valid number");
         }
     }
 
